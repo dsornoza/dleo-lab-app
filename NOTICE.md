@@ -1,6 +1,6 @@
 # NOTICE — Dependencias de terceros y atribuciones
 
-DLEO Lab — Laboratorio matemático de decisiones para emprendedores. Versión 1.0.0.
+DLEO Lab — Laboratorio matemático de decisiones para emprendedores. Versión 1.1.0.
 Titular: Diego Sornoza Parrales. Autores: María Leonor Parrales Poveda (autora principal); Diego Sornoza Parrales. TODO(coautores)
 
 Licencias leídas del `package.json` de cada paquete instalado el 2026-10-27 (no de memoria).

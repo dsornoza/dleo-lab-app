@@ -1,6 +1,6 @@
 # DLEO Lab — versión de prueba
 
-Aplicación web didáctica: **DLEO Lab — Laboratorio matemático de decisiones para emprendedores**, versión 1.0.0.
+Aplicación web didáctica: **DLEO Lab — Laboratorio matemático de decisiones para emprendedores**, versión 1.1.0.
 
 Este repositorio contiene únicamente los archivos compilados de la aplicación, para que pueda probarse desde el navegador. El código fuente se mantiene en un repositorio privado. Los datos que se ingresan se quedan en el navegador y no se envían a ningún servidor.
 
